@@ -3,6 +3,13 @@
 Welcome to new world
 
 Football
+
+Striker
+Midfielder
+Defender
+Goal keeper
+
+
 Cricket
 Hockey
 
